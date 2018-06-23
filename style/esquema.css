@@ -1,0 +1,39 @@
+
+.header
+{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  border: 5px solid black;
+   width: 90%;
+}
+
+.flex
+  {
+  display: flex;
+   flex-direction: row;
+   margin: 3%,3%,2%,3%;
+   border: 5px solid black;
+    width: 90%;
+  }
+  .nav
+  {
+    display: flex;
+    flex-direction: row;
+    border: 5px solid black;
+     width: 90%;
+     margin-bottom:20px;
+
+  }
+
+.div
+{
+  width: 45%;
+ text-align:right;
+}
+
+.espacio
+{
+  width: 5%;
+   text-align:right;
+}
